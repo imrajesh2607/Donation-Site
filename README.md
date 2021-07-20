@@ -1,7 +1,7 @@
 ### Donation-website:
 https://imrajesh2607.github.io/Donation-Site/
 
-## PaymentGatewayIntegration
+## Payment Gateway Integration
 Sparks Foundation Web Development Internship. 
 
 Task3 : Payment Gateway Integration. 
